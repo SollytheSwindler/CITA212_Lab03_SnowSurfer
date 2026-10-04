@@ -20,6 +20,5 @@ public class FinishLine : MonoBehaviour
     void ReloadScene()
     {
         SceneManager.LoadScene(0);
-        Debug.Log("You Win!");
     }
 }
